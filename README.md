@@ -4,3 +4,5 @@
 
 Para ejecutar el sistema debes poner 
 ```npm intall```
+
+<h2>Sistema de registro 2</h2>
